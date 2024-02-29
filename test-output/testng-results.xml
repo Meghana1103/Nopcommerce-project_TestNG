@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T14:15:37Z" name="Default suite" finished-at="2024-02-29T14:18:19Z" duration-ms="162389">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T14:15:37Z" name="Default test" finished-at="2024-02-29T14:18:19Z" duration-ms="162389">
+      <class name="project_datadriven_testng.Pulling_Data">
+        <test-method is-config="true" signature="setup()[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:45:37Z" name="setup" finished-at="2024-02-29T19:45:41Z" duration-ms="4314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:45:42Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:45:54Z" duration-ms="12469" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pavan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bojja]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1997]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[pavan@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Moolyaed]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Pavan@pk]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Pavan@pk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:45:54Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:46:07Z" duration-ms="12164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Meghana]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bojjas]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[February]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1998]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[meghaaspk@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Moolya]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Meghana@pk]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Meghana@pk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:46:07Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:46:19Z" duration-ms="12232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Soppari]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[March]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1994]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Ajay@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[MountBlue]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Ajaya@sr]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Ajaya@sr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:46:19Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:46:31Z" duration-ms="12126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lavanya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Soppari]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[April]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1985]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[lavanya@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Lavanya@sr]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Lavanya@sr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:46:31Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:46:43Z" duration-ms="12078" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Uday]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Soppari Sr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1993]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[uday@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Mines]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Uday@sr]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Uday@sr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:46:43Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:46:55Z" duration-ms="12008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ramana]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BojjaB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1985]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ramana@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[CMR]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Ramana@bj]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Ramana@bj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:46:55Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:47:07Z" duration-ms="12018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laxmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BojjaB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[July]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1982]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[laxmi@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[STHI]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Laxmi@bj]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Laxmi@bj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:47:07Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:47:19Z" duration-ms="12013" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Loke]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bojjabj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2006]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[loki@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[School]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Loki@lkb]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Loki@lkb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:47:19Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:47:31Z" duration-ms="12044" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shylu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BojjaBp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[September]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[shyalu@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Githam]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[shylu@shl]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[shylu@shl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login_test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:47:31Z" name="login_test" data-provider="fetch" finished-at="2024-02-29T19:47:43Z" duration-ms="11968" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Priya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[navani]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[October]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1999]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[priya@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[microsoft]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Priyanka@pry]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Priyanka@pry]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method signature="login()[pri:1, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:47:43Z" name="login" finished-at="2024-02-29T19:48:19Z" duration-ms="35604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:project_datadriven_testng.Pulling_Data@35841320]" started-at="2024-02-29T19:48:19Z" name="teardown" finished-at="2024-02-29T19:48:19Z" duration-ms="479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- project_datadriven_testng.Pulling_Data -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
